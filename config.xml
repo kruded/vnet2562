@@ -6,13 +6,13 @@
         versionCode = "35200"
         android-versionCode="35200"
         version   = "3.5.2">
-    <name>Moodle</name>
+    <name>KVC Smart Pre V-net 1.0.4</name>
 
     <description>
-        Moodle official app
+        KVC Smart App
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
+    <author href="http://61.91.109.46/eva" email="mobile@moodle.com">
         Moodle Mobile team
     </author>
 
